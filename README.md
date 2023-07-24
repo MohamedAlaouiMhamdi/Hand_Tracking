@@ -10,7 +10,7 @@ This Python project utilizes the Mediapipe library to track hand landmarks in re
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
-- [Features](#MyProject)
+- [MyProject](#MyProject)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
