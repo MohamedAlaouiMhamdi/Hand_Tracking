@@ -50,8 +50,8 @@ The Hand Distance Measurement project uses Google's Mediapipe library to accurat
  - Mediapipe (`pip install mediapipe`)
 ## Usage
 
-1.A window will open displaying the webcam feed with real-time hand landmark tracking. The script will highlight the tip of the index finger with a yellow circle for better visibility.
-2.To exit the application, press the 'q' key.
+1. A window will open displaying the webcam feed with real-time hand landmark tracking. The script will highlight the tip of the index finger with a yellow circle for better visibility.
+2. To exit the application, press the 'q' key.
 
 ## Contributing
 
